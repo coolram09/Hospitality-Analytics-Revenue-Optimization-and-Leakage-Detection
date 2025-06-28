@@ -8,7 +8,7 @@ The project focused on uncovering revenue leakages and improving profitability i
 - Deep analysis of hotel booking trends and demand seasonality.
 - KPI-driven strategy development to enhance revenue performance.
 - Power BI dashboard for ROI visualization and scenario-based business decision-making
-- Occupancy Rate
+  
 ------------------------
 *Project Deliverables*
 [Power BI Dashboard ](https://drive.google.com/file/d/1Wma1p-K5panzbjcM6mF7kL-ntSuyXI8c/view?usp=sharing)
