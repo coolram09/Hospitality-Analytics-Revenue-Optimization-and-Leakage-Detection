@@ -1,4 +1,4 @@
-# Hospitality Analytics :  Revenue Optimization and Leakage Detection
+ Hospitality Analytics :  Revenue Optimization and Leakage Detection
 
 *Project Context*
 
@@ -13,10 +13,13 @@ The project focused on uncovering revenue leakages and improving profitability i
 ------------------------
 *Project Deliverables*
 
- [Power BI Dashboard](https://drive.google.com/file/d/1Wma1p-K5panzbjcM6mF7kL-ntSuyXI8c/view?usp=sharing)
-[Dashboard PDF](https://drive.google.com/file/d/1IRPfaJosFE6K6UAweUf-6ldUB8jsfF3k/view?usp=sharing)
-[Project Report](https://drive.google.com/file/d/1c0SIe6NRYb5GxaJCGOp9F8U9Mw15HuwH/view?usp=sharing)
-[Certificate – IIT Guwahati](https://drive.google.com/file/d/1fhC36R0BlkR_edRZ_3NdDm2nqLZQAj0w/view?usp=sharing)
+ *Project Deliverables*
+
+- 📊 [Power BI Dashboard](https://drive.google.com/file/d/1Wma1p-K5panzbjcM6mF7kL-ntSuyXI8c/view?usp=sharing)
+- 📝 [Dashboard PDF](https://drive.google.com/file/d/1IRPfaJosFE6K6UAweUf-6ldUB8jsfF3k/view?usp=sharing)
+- 📄 [Project Report](https://drive.google.com/file/d/1c0SIe6NRYb5GxaJCGOp9F8U9Mw15HuwH/view?usp=sharing)
+- 🎓 [Certificate – IIT Guwahati](https://drive.google.com/file/d/1fhC36R0BlkR_edRZ_3NdDm2nqLZQAj0w/view?usp=sharing)
+
 
 
    
