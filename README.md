@@ -1,6 +1,6 @@
  Hospitality Analytics :  Revenue Optimization and Leakage Detection
 
-*Project Context*
+
 
 This certified data analytics project was completed under the Consultancy and Analytics Club at IIT Guwahati.  
 The project focused on uncovering revenue leakages and improving profitability in the hospitality industry using Power BI and key performance indicators such as RevPAR, ADR, and Occupancy Rate.
